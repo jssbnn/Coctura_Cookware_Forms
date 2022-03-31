@@ -1,2 +1,2 @@
 # Coctura_Cookware_Forms
-This is a website which features Javascript programming for web forms
+This is a website based in HTML and CSS and features Javascript programming for interactive web forms
